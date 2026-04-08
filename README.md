@@ -10,9 +10,6 @@ This repo is still under progress. Don't expect that all links are working..!!
 
 | Game | Description | Play Now |
 |------|-------------|----------|
-| Number Guessing | Guess the number in fewest tries | [▶ Play](https://app.streamlit.app) |
-| Hangman | Guess the correct answer | [▶ Play](https://app.streamlit.app) |
-| Quiz Game | Guess the correct answer | [▶ Play](https://app.streamlit.app) |
 
 ---
 
